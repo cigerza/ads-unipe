@@ -1,0 +1,6 @@
+
+Nome: ccc
+  Pontuacao: 0
+
+Nome: ff
+  Pontuacao: 100
